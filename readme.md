@@ -1,4 +1,4 @@
-https://sport-meeting-point.herokuapp.com/
+
 
 ## How to run docker>
 1. Create jar file
